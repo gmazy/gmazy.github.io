@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a78374e7af7e8c344102e4b123a471a4",
+    "revision": "c953316743e0e37a9c92514340742a01",
     "url": "/pragma/index.html"
   },
   {
-    "revision": "9b1c16151b3118d8ca8a",
-    "url": "/pragma/static/css/main.8cb324c8.chunk.css"
+    "revision": "6b772a4e9a60a1e8bffd",
+    "url": "/pragma/static/css/main.38054fbb.chunk.css"
   },
   {
     "revision": "93f95bddef6497cac38a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pragma/static/js/2.c00d8e3d.chunk.js.LICENSE"
   },
   {
-    "revision": "9b1c16151b3118d8ca8a",
-    "url": "/pragma/static/js/main.60fa4617.chunk.js"
+    "revision": "6b772a4e9a60a1e8bffd",
+    "url": "/pragma/static/js/main.90772932.chunk.js"
   },
   {
     "revision": "43510142b5629422e99d",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "33543c5cc5d88f5695dd08c87d280dfd",
     "url": "/pragma/static/media/OpenSans-Regular.33543c5c.woff2"
+  },
+  {
+    "revision": "d7d5d4588a9f50c99264bc12e4892a7c",
+    "url": "/pragma/static/media/OpenSans-Regular.d7d5d458.ttf"
   },
   {
     "revision": "de0869e324680c99efa1250515b4b41c",
